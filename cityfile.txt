@@ -1,0 +1,7 @@
+Abu Dhabi, United Arab Emirates	49.14 68.86 10.44
+Adelaide, Australia	20.26 75.74  31.58
+Ahmedabad, India	72.10  70.50  33.11
+Albuquerque, NM, United States	27.09  67.59  71.05
+Alexandria, Egypt	79.13   44.15  39.38
+Algiers, Algeria	66.28   57.74  56.57
+
