@@ -64,10 +64,10 @@ def choose_city():
     crime_rate= info_crime(crime_url)
     with open("cityfile.txt", "a+") as file:
         file.write(self.city_name)
-        file.write(pollution_level + "\n")
-        file.write(health_index + "\n")
-        file.write(crime_rate + "\n")
-        file.write("------------------------- \n")
+        file.write(pollution_leve)
+        file.write(health_index)
+        file.write(crime_rate)
+        file.write("\n")
 
 
 
