@@ -5,7 +5,6 @@ root = Tk()
 from bs4 import BeautifulSoup
 import requests
 import random
-from difflib import get_close_matches
 import webbrowser
 
 def __init__(self):
